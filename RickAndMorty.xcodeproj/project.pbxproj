@@ -3,7 +3,7 @@
 	archiveVersion = 1;
 	classes = {
 	};
-	objectVersion = 77;
+	objectVersion = 63;
 	objects = {
 
 /* Begin PBXBuildFile section */
@@ -302,6 +302,7 @@
 				};
 			};
 			buildConfigurationList = 0C4E236D2D304F770009C543 /* Build configuration list for PBXProject "RickAndMorty" */;
+			compatibilityVersion = "Xcode 13.0";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
 			knownRegions = (
@@ -316,7 +317,6 @@
 				0C7C455F2D3305DD0074B5A3 /* XCRemoteSwiftPackageReference "Nuke" */,
 				0C7C45792D33347A0074B5A3 /* XCRemoteSwiftPackageReference "SwiftEntryKit" */,
 			);
-			preferredProjectObjectVersion = 77;
 			productRefGroup = 0C4E23732D304F770009C543 /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
